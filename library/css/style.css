@@ -1,0 +1,11 @@
+/* CSS Document */
+
+input[type=text]{
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+table{
+	border: 1px solid #ccc;
+	padding: 3px;
+	align: center;
+}
